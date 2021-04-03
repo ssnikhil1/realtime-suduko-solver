@@ -11,19 +11,19 @@ Tools Used: Tensorflow 2.0.0 ,keras 2.3.1 , OpenCv,numpy
 
 Step-1: Capturing the image using Webcam(real time input image)
 
-  ![input_image](https://user-images.githubusercontent.com/53668222/113464137-5ea82500-93df-11eb-93bd-8d6d8e452b50.jpg)
+  <img src="https://user-images.githubusercontent.com/53668222/113464137-5ea82500-93df-11eb-93bd-8d6d8e452b50.jpg" width="200">
   
 Step-2: Convert input image black and white .Apply threshold to remove unwanted noise
    
-   ![thresholded_image](https://user-images.githubusercontent.com/53668222/113464256-2523e980-93e0-11eb-9cec-f55c5a1b95f7.jpg)
+   <img src="https://user-images.githubusercontent.com/53668222/113464256-2523e980-93e0-11eb-9cec-f55c5a1b95f7.jpg" width="200">
 
 Step-3: Get corner points of largest contour having 4 corners(i.e 9*9 suduko grid)
 
-   ![contour_image](https://user-images.githubusercontent.com/53668222/113464291-5e5c5980-93e0-11eb-8933-89bb62016926.jpg)
+   <img src="https://user-images.githubusercontent.com/53668222/113464291-5e5c5980-93e0-11eb-8933-89bb62016926.jpg" width="200">
 
 Step-4: Transform the axis of image(using wrap perspective)
 
-   ![bandicam 2021-03-27 06-19-10-699](https://user-images.githubusercontent.com/53668222/113464458-ae87eb80-93e1-11eb-94da-e33f8d159a80.jpg)
+   <img src="https://user-images.githubusercontent.com/53668222/113464458-ae87eb80-93e1-11eb-94da-e33f8d159a80.jpg" width="200"> 
 
 Step-5: Split the image into 81 images and recognize them using digit recognizer model
 
@@ -35,7 +35,7 @@ Step-6:Solve suduko using Backtracking Algorithm
 
 Step-7: Overlaying calculated result on live video
   
-   ![Uploading Hnet-image (3).gif…]()
+![Uploading Hnet-image (3).gif…]()
 
 
 
