@@ -9,6 +9,11 @@ Solves a 9*9 Sudoku puzzle under one second and overlays the solved puzzle on to
 Tools Used: Tensorflow 2.0.0 ,keras 2.3.1 , OpenCv,numpy
 
 
+## Output
+
+<img src="https://user-images.githubusercontent.com/53668222/113466384-42f94a80-93f0-11eb-8a93-b01af365c51e.gif" width="400">
+
+
 ## Steps
 
 
