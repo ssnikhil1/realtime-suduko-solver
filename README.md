@@ -6,6 +6,8 @@ Solves a Sudoku puzzle under one second and overlays the solved puzzle on to the
 Tools Used: Tensorflow 2.0.0 ,keras 2.3.1 , OpenCv,numpy
 
 
+### Steps
+
 
 
 
