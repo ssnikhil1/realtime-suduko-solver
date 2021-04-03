@@ -1,3 +1,6 @@
+
+
+
 # Real time suduko solver
 
 
@@ -36,7 +39,11 @@ Step-6:Solve suduko using Backtracking Algorithm
 Step-7: Overlaying calculated result on live video
   
 <img src="https://user-images.githubusercontent.com/53668222/113465980-f06a5f00-93ec-11eb-851b-e3c5b45a75f3.jpg" width="200">
-![Uploading Hnet-image (3).gif…]()
+
+<img src="https://user-images.githubusercontent.com/53668222/113466384-42f94a80-93f0-11eb-8a93-b01af365c51e.gif" width="200">
+
+
+
 
 
 
