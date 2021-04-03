@@ -6,7 +6,7 @@ Solves a 9*9 Sudoku puzzle under one second and overlays the solved puzzle on to
 Tools Used: Tensorflow 2.0.0 ,keras 2.3.1 , OpenCv,numpy
 
 
-### Steps
+## Steps
 
 
 Step-1: Capturing the image using Webcam(real time input image)
@@ -35,7 +35,13 @@ Step-6:Solve suduko using Backtracking Algorithm
 
 Step-7: Overlaying calculated result on live video
   
+<img src="https://user-images.githubusercontent.com/53668222/113465980-f06a5f00-93ec-11eb-851b-e3c5b45a75f3.jpg" width="200">
 ![Uploading Hnet-image (3).gif…]()
+
+
+
+
+
 
 
 
