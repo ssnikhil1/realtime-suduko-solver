@@ -29,18 +29,14 @@ Step-5: Split the image into 81 images and recognize them using digit recognizer
 
    ![digit image](https://user-images.githubusercontent.com/53668222/113464634-0410c800-93e3-11eb-858b-dec028182b13.jpg)
    
-   ![digit](https://user-images.githubusercontent.com/53668222/113465299-cf533f80-93e7-11eb-8af2-eb8d6c256cc1.jpg)
+   <img src="https://user-images.githubusercontent.com/53668222/113465299-cf533f80-93e7-11eb-8af2-eb8d6c256cc1.jpg" width="200">
    
 Step-6:Solve suduko using Backtracking Algorithm
 
 Step-7: Overlaying calculated result on live video
+  
+   ![Uploading Hnet-image (3).gif…]()
 
-   https://user-images.githubusercontent.com/53668222/113465063-1b9d8000-93e6-11eb-9894-92a6216b3f28.mp4
-
-
-    
-    
-   
 
 
 
